@@ -10,7 +10,9 @@
     },
     "identity": {
         "username": "username",
-        "password": "oauth:key"
+        "password": "oauth:key",
+        "id": 1234567,
+        "displayname": "UserName"
     },
     "channels": ["#channel"]
   }
