@@ -1,0 +1,28 @@
+{
+  "name": "srmwss",
+  "version": "1.0.0",
+  "description": "Song Request Websocket Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corben78/srmwss.git"
+  },
+  "keywords": [
+    "Beat",
+    "Saber",
+    "Song",
+    "Request",
+    "Manager",
+    "NodeJS",
+    "Websocket"
+  ],
+  "author": "Corben78",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/corben78/srmwss/issues"
+  },
+  "homepage": "https://github.com/corben78/srmwss#readme"
+}
