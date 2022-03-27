@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/corben78/srmwss#readme",
   "dependencies": {
-    "tmi.js": "^1.8.5"
+    "tmi.js": "^1.8.5",
+    "ws": "^8.5.0"
   }
 }
