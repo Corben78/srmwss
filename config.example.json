@@ -1,0 +1,17 @@
+{
+  "twitch": {
+    "options": {
+        "debug": true,
+        "clientId": "clientId"
+    },
+    "connection": {
+        "reconnect": true,
+        "secure": true
+    },
+    "identity": {
+        "username": "username",
+        "password": "oauth:key"
+    },
+    "channels": ["#channel"]
+  }
+}
